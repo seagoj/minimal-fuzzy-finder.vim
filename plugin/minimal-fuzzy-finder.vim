@@ -1,4 +1,4 @@
 set path+=**
 set wildmenu
 
-nnoremap <leader>p :find<Space>
+" nnoremap <leader>p :find<Space>
